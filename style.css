@@ -1,17 +1,19 @@
 h1 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    color: darkslateblue;
 }
 
 h3{
     text-align: left;
-    font-family: 'Times New Roman', Times, serif;
-    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    font-size: x-large;
 }
 
 
 body {
-    background-color: rgb(169, 208, 221);
+    background-color: #c5e1eb;
 }
 
 
@@ -19,29 +21,29 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 67%;
+  width: 50%;
 }
 
 .resume {
-    text-align: center;
+    text-align: left;
+    color:rgb(248, 141, 114);
+    padding: 5%;
+    font-family: 'Times New Roman', Times, serif;
+  
 }
 
 p {
   text-align: left;
   font-family: 'Times New Roman', Times, serif;
-  padding: 30px;
+  padding: 35px;
 }
 
-.card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
-  margin: auto;
-  text-align: center;
+.webpage {
+  font-size: medium;
 }
 
-.title {
-  color: grey;
-  font-size: 18px;
+.project {
+  font-size: medium;
 }
 
 button {
@@ -73,5 +75,10 @@ max-width: 300px;
   text-align: center;
   font-family: arial;
   padding: 20px;
-  background-color:rgb(162, 104, 217);
+  background-color:rgb(238, 185, 229);
 }
+
+.gmail {
+  text-align: center;
+}
+
